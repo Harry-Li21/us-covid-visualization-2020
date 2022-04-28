@@ -14,9 +14,9 @@ The Covid-19 counts proportional symbols map shows the U.S. Covid-19 counts for 
 MapBox
 
 ## Data Sources
-The Covid-19 case and death data are from [the New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv)
-Population data for culculating case rates are from [2018 ACS 5 year estimates](https://data.census.gov/cedsci/table?g=0100000US%24050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
-The U.S. county boundary shapefile is from [the U.S. Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
+* The Covid-19 case and death data are from [the New York Times](https://github.com/nytimes/covid-19-data/blob/43d32dde2f87bd4dafbb7d23f5d9e878124018b8/live/us-counties.csv)
+* Population data for culculating case rates are from [2018 ACS 5 year estimates](https://data.census.gov/cedsci/table?g=0100000US%24050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
+* The U.S. county boundary shapefile is from [the U.S. Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
 
 ## Acknowledgement
 The data used in this project are provided by the UW Geography Department, processed by Steven Bao. 
