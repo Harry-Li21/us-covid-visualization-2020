@@ -1,4 +1,7 @@
 # U.S. Covid-19 Visualization 2020
+
+By Harry Li, April 28, 2022
+
 ## Introducation
 This project visualizes the distribution of Covid-19 cases in 2020. Specificlly, there are two county level interactive maps illustrating the the spread of pandemic in the U.S., in 2020. One map shows the number of cases in the U.S. by counties, and the other map protrays the Covid-19 case rates. Both maps are created using MapBox in 'Albers' projection. Also, both maps are made on a light style base map in order to highlight the visualization or the layer of the maps. 
 
